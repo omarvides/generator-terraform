@@ -1,0 +1,10 @@
+{
+  "generator-test": {
+    "promptValues": {
+      "name": "something",
+      "resource": "jenkins",
+      "backend": "aws",
+      "provider": "aws"
+    }
+  }
+}
